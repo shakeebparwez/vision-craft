@@ -1,11 +1,10 @@
-**VisionCraft: Computer Vision & Emotion Recognition**
+# VisionCraft: Computer Vision & Emotion Recognition
 
 Welcome to VisionCraft, a comprehensive project blending Computer Vision and Machine Learning. This Django-based web app excels in precise face and emotion recognition.
 
 **Key Features:**
 - **Machine Learning Integration:** Leverage powerful ML models for accurate face and emotion recognition.
 - **Django Framework:** MVT architecture ensures a robust and scalable web application.
-- **Heroku Deployment:** Seamlessly deploy on Heroku Cloud for global accessibility.
   
 **Getting Started:**
 1. Clone the repository.
