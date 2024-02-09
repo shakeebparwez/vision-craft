@@ -2,7 +2,7 @@
 
 Welcome to VisionCraft, a comprehensive project blending Computer Vision and Machine Learning. This Django-based web app excels in precise face and emotion recognition.
 
-![VisionCraft Logo](images/visioncraft_logo.png)
+![VisionCraft Logo](logo.png)
 
 ## Key Features
 
@@ -31,13 +31,7 @@ Welcome to VisionCraft, a comprehensive project blending Computer Vision and Mac
 ## Screenshots
 
 ### Home Page
-![Home Page](images/home_page.png)
-
-### Face Recognition
-![Face Recognition](images/face_recognition.png)
-
-### Emotion Recognition
-![Emotion Recognition](images/emotion_recognition.png)
+![Home Page](home.png)
 
 ## Contributors
 
